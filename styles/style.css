@@ -284,15 +284,12 @@ right: 0;
 top: 0;
 }
 
-.menuTitle {
-    margin-bottom: 30px;
-}
 .menuTitle p {
     color: #797d62;
     margin-top: 6px;
 }
 
-h3 {
+.menuTitle h2 {
     margin-bottom: 6px;
     margin-top: 40px;
 }
