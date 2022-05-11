@@ -276,6 +276,14 @@ section {
     position: relative;
 }
 
+.menuSection li p {
+margin: 0 0 5px 0;
+font-size: .7rem;
+line-height: 1rem;
+color: rgb(126, 125, 125);;
+}
+
+
 .menuSection li span {
     color: #b36a5e;
     display: block;
@@ -289,6 +297,9 @@ top: 0;
     margin-top: 6px;
 }
 
+.invisible {
+    opacity: 0;
+}
 .menuTitle h2 {
     margin-bottom: 6px;
     margin-top: 40px;
