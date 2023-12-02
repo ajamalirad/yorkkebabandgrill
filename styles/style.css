@@ -317,6 +317,13 @@ top: 0;
 .invisible {
     opacity: 0;
 }
+
+.menuSection .noSpace li {
+    padding-left: 0;
+    padding-right: 160px;
+}
+
+
 .menuTitle h2 {
     margin-bottom: 6px;
     margin-top: 40px;
